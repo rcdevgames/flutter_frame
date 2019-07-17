@@ -1,13 +1,13 @@
 name: frame
-version: 0.1.0
+version: 1.0.0
 author: hackett<hackettice@gmail.com>
 homepage: https://github.com/hackett0/flutter_frame.git
 description: >
   A simple framework for state management in Flutter.
 
 environment:
-  sdk: '>=2.0.0 <3.0.0'
-  
+  sdk: ">=2.1.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
@@ -15,3 +15,5 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+flutter:
