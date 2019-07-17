@@ -9,7 +9,7 @@ This Library provides two main classes:
 
 ## Examples
 
-  * [Counter App](https://github.com/hackett0/flutter_frame/master/example) - Introduction to the tools provided by frame. 
+  * [Counter App](https://github.com/hackett0/flutter_frame/blob/master/test/example.dart) - Introduction to the tools provided by frame. 
 
 ## Usage
 
