@@ -116,5 +116,5 @@ class _StateHandleWidgetState extends State<_StateHandleWidget> {
 
   @override
   Widget build(BuildContext context) =>
-      widget.builder(context, widget.state, widget.child);
+      widget.builder(context, widget.child, widget.state);
 }
